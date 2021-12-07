@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dialer</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="zero">0</string>
+    <string name="estrela">*</string>
+    <string name="hashTag">#</string>
+    <string name="X">x</string>
+    <string name="ligar">Ligar</string>
+
+    <string name="hint">Coloque o numero</string>
+    <string name="title_activity_historico_chamadas">HistoricoChamadas</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

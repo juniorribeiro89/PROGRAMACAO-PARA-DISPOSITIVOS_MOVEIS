@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ce7714-7db5-4559-b08b-33c9de02ddbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Dispositivo-Moveis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/Discador.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/androidTest/java/com/example/dialer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/Chamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/ChamadaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/Chamada_DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/ListaChamadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/java/com/example/discador/TelaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_tela_principal2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/lista_de_chamadas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/app/src/test/java/com/example/dialer/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/Dialer.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/androidTest/java/com/example/dialer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/java/com/example/dialer/ListaHistorico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/java/com/example/dialer/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/java/com/example/dialer/TelaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/layout/activity_lista_historico.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/layout/activity_tela_principal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/layout/activity_tela_principal2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/app/src/test/java/com/example/dialer/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discador/discador/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/androidTest/java/br/com/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/java/br/com/myapplication/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/java/br/com/myapplication/Main3Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/java/br/com/myapplication/Main4Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/java/br/com/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/layout/activity_main4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/app/src/test/java/br/com/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discador/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Discador/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21nL06ogBqs3eVKnPZLaWvJc5mj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Dialer.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ce7714-7db5-4559-b08b-33c9de02ddbc" name="Default Changelist" comment="" />
+      <created>1638571679301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638571679301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
